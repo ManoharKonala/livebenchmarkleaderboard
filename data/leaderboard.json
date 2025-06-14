@@ -1,0 +1,225 @@
+{
+  "last_updated": "2025-06-14T13:13:47.293089",
+  "sources": [
+    "Hugging Face Open LLM Leaderboard",
+    "Chatbot Arena by LMSYS",
+    "Stack Overflow Developer Survey",
+    "GitHub AI Agent Projects"
+  ],
+  "llms": [
+    {
+      "rank": 1,
+      "model": "GPT-4 Turbo",
+      "score": 87.3,
+      "organization": "OpenAI",
+      "date": "2025-06-14",
+      "parameters": "1.76T",
+      "type": "Commercial"
+    },
+    {
+      "rank": 2,
+      "model": "Claude-3.5 Sonnet",
+      "score": 86.8,
+      "organization": "Anthropic",
+      "date": "2025-06-14",
+      "parameters": "Unknown",
+      "type": "Commercial"
+    },
+    {
+      "rank": 3,
+      "model": "Gemini 1.5 Pro",
+      "score": 85.9,
+      "organization": "Google",
+      "date": "2025-06-14",
+      "parameters": "Unknown",
+      "type": "Commercial"
+    },
+    {
+      "rank": 4,
+      "model": "Llama 3.1 405B Instruct",
+      "score": 84.7,
+      "organization": "Meta",
+      "date": "2025-06-14",
+      "parameters": "405B",
+      "type": "Open Source"
+    },
+    {
+      "rank": 5,
+      "model": "Qwen2.5 72B Instruct",
+      "score": 83.5,
+      "organization": "Alibaba",
+      "date": "2025-06-14",
+      "parameters": "72B",
+      "type": "Open Source"
+    },
+    {
+      "rank": 6,
+      "model": "Mixtral 8x22B Instruct",
+      "score": 82.1,
+      "organization": "Mistral AI",
+      "date": "2025-06-14",
+      "parameters": "141B",
+      "type": "Open Source"
+    },
+    {
+      "rank": 7,
+      "model": "Command R+",
+      "score": 80.5,
+      "organization": "Cohere",
+      "date": "2025-06-14",
+      "parameters": "104B",
+      "type": "Commercial"
+    },
+    {
+      "rank": 8,
+      "model": "Llama 3.1 70B Instruct",
+      "score": 79.8,
+      "organization": "Meta",
+      "date": "2025-06-14",
+      "parameters": "70B",
+      "type": "Open Source"
+    },
+    {
+      "rank": 9,
+      "model": "Yi-Large",
+      "score": 78.9,
+      "organization": "01.AI",
+      "date": "2025-06-14",
+      "parameters": "Unknown",
+      "type": "Commercial"
+    },
+    {
+      "rank": 10,
+      "model": "DeepSeek-V2.5",
+      "score": 77.8,
+      "organization": "DeepSeek",
+      "date": "2025-06-14",
+      "parameters": "236B",
+      "type": "Open Source"
+    }
+  ],
+  "ides": [
+    {
+      "name": "Visual Studio Code",
+      "score": 73.71,
+      "organization": "Microsoft",
+      "type": "Desktop",
+      "version": "1.90",
+      "rank": 1
+    },
+    {
+      "name": "Visual Studio",
+      "score": 30.61,
+      "organization": "Microsoft",
+      "type": "Desktop",
+      "version": "2022",
+      "rank": 2
+    },
+    {
+      "name": "IntelliJ IDEA",
+      "score": 29.11,
+      "organization": "JetBrains",
+      "type": "Desktop",
+      "version": "2024.1",
+      "rank": 3
+    },
+    {
+      "name": "Notepad++",
+      "score": 24.21,
+      "organization": "Notepad++ Team",
+      "type": "Desktop",
+      "version": "8.6",
+      "rank": 4
+    },
+    {
+      "name": "Vim",
+      "score": 22.21,
+      "organization": "Bram Moolenaar",
+      "type": "Desktop",
+      "version": "9.1",
+      "rank": 5
+    },
+    {
+      "name": "Sublime Text",
+      "score": 20.71,
+      "organization": "Sublime HQ",
+      "type": "Desktop",
+      "version": "4",
+      "rank": 6
+    },
+    {
+      "name": "PyCharm",
+      "score": 19.41,
+      "organization": "JetBrains",
+      "type": "Desktop",
+      "version": "2024.1",
+      "rank": 7
+    },
+    {
+      "name": "Eclipse",
+      "score": 16.01,
+      "organization": "Eclipse Foundation",
+      "type": "Desktop",
+      "version": "2024-06",
+      "rank": 8
+    },
+    {
+      "name": "Xcode",
+      "score": 12.91,
+      "organization": "Apple",
+      "type": "Desktop",
+      "version": "15.3",
+      "rank": 9
+    },
+    {
+      "name": "WebStorm",
+      "score": 10.51,
+      "organization": "JetBrains",
+      "type": "Desktop",
+      "version": "2024.1",
+      "rank": 10
+    }
+  ],
+  "agents": [
+    {
+      "name": "Auto-GPT",
+      "organization": "Significant-Gravitas",
+      "score": 176129,
+      "type": "Open Source",
+      "version": null,
+      "rank": 1
+    },
+    {
+      "name": "MetaGPT",
+      "organization": "geekan",
+      "score": 56387,
+      "type": "Open Source",
+      "version": null,
+      "rank": 2
+    },
+    {
+      "name": "AutoGen",
+      "organization": "microsoft",
+      "score": 45972,
+      "type": "Open Source",
+      "version": null,
+      "rank": 3
+    },
+    {
+      "name": "AgentGPT",
+      "organization": "reworkd",
+      "score": 34319,
+      "type": "Web",
+      "version": null,
+      "rank": 4
+    },
+    {
+      "name": "BabyAGI",
+      "organization": "yoheinakajima",
+      "score": 21564,
+      "type": "Open Source",
+      "version": null,
+      "rank": 5
+    }
+  ]
+}
