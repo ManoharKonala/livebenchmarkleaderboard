@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-14T14:59:26.526967",
+  "last_updated": "2025-06-15T02:20:27.449235",
   "sources": [
     "Hugging Face Open LLM Leaderboard",
     "Chatbot Arena by LMSYS",
@@ -12,7 +12,7 @@
       "model": "GPT-4 Turbo",
       "score": 87.3,
       "organization": "OpenAI",
-      "date": "2025-06-14",
+      "date": "2025-06-15",
       "parameters": "1.76T",
       "type": "Commercial"
     },
@@ -21,7 +21,7 @@
       "model": "Claude-3.5 Sonnet",
       "score": 86.8,
       "organization": "Anthropic",
-      "date": "2025-06-14",
+      "date": "2025-06-15",
       "parameters": "Unknown",
       "type": "Commercial"
     },
@@ -30,7 +30,7 @@
       "model": "Gemini 1.5 Pro",
       "score": 85.9,
       "organization": "Google",
-      "date": "2025-06-14",
+      "date": "2025-06-15",
       "parameters": "Unknown",
       "type": "Commercial"
     },
@@ -39,7 +39,7 @@
       "model": "Llama 3.1 405B Instruct",
       "score": 84.7,
       "organization": "Meta",
-      "date": "2025-06-14",
+      "date": "2025-06-15",
       "parameters": "405B",
       "type": "Open Source"
     },
@@ -48,7 +48,7 @@
       "model": "Qwen2.5 72B Instruct",
       "score": 83.5,
       "organization": "Alibaba",
-      "date": "2025-06-14",
+      "date": "2025-06-15",
       "parameters": "72B",
       "type": "Open Source"
     },
@@ -57,7 +57,7 @@
       "model": "Mixtral 8x22B Instruct",
       "score": 82.1,
       "organization": "Mistral AI",
-      "date": "2025-06-14",
+      "date": "2025-06-15",
       "parameters": "141B",
       "type": "Open Source"
     },
@@ -66,7 +66,7 @@
       "model": "Command R+",
       "score": 80.5,
       "organization": "Cohere",
-      "date": "2025-06-14",
+      "date": "2025-06-15",
       "parameters": "104B",
       "type": "Commercial"
     },
@@ -75,7 +75,7 @@
       "model": "Llama 3.1 70B Instruct",
       "score": 79.8,
       "organization": "Meta",
-      "date": "2025-06-14",
+      "date": "2025-06-15",
       "parameters": "70B",
       "type": "Open Source"
     },
@@ -84,7 +84,7 @@
       "model": "Yi-Large",
       "score": 78.9,
       "organization": "01.AI",
-      "date": "2025-06-14",
+      "date": "2025-06-15",
       "parameters": "Unknown",
       "type": "Commercial"
     },
@@ -93,7 +93,7 @@
       "model": "DeepSeek-V2.5",
       "score": 77.8,
       "organization": "DeepSeek",
-      "date": "2025-06-14",
+      "date": "2025-06-15",
       "parameters": "236B",
       "type": "Open Source"
     }
@@ -184,7 +184,7 @@
     {
       "name": "Auto-GPT",
       "organization": "Significant-Gravitas",
-      "score": 176132,
+      "score": 176139,
       "type": "Open Source",
       "version": null,
       "rank": 1
@@ -192,7 +192,7 @@
     {
       "name": "MetaGPT",
       "organization": "geekan",
-      "score": 56387,
+      "score": 56394,
       "type": "Open Source",
       "version": null,
       "rank": 2
@@ -200,7 +200,7 @@
     {
       "name": "AutoGen",
       "organization": "microsoft",
-      "score": 45975,
+      "score": 45987,
       "type": "Open Source",
       "version": null,
       "rank": 3
@@ -208,7 +208,7 @@
     {
       "name": "AgentGPT",
       "organization": "reworkd",
-      "score": 34319,
+      "score": 34323,
       "type": "Web",
       "version": null,
       "rank": 4
