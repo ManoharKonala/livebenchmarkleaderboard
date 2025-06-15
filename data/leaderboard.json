@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-15T02:20:27.449235",
+  "last_updated": "2025-06-15T12:48:50.740786",
   "sources": [
     "Hugging Face Open LLM Leaderboard",
     "Chatbot Arena by LMSYS",
@@ -184,7 +184,7 @@
     {
       "name": "Auto-GPT",
       "organization": "Significant-Gravitas",
-      "score": 176139,
+      "score": 176152,
       "type": "Open Source",
       "version": null,
       "rank": 1
@@ -192,7 +192,7 @@
     {
       "name": "MetaGPT",
       "organization": "geekan",
-      "score": 56394,
+      "score": 56407,
       "type": "Open Source",
       "version": null,
       "rank": 2
@@ -200,7 +200,7 @@
     {
       "name": "AutoGen",
       "organization": "microsoft",
-      "score": 45987,
+      "score": 45993,
       "type": "Open Source",
       "version": null,
       "rank": 3

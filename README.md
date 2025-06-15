@@ -1,6 +1,6 @@
 # 🤖 Tech Leaderboard Tracker
 
-*Last updated: 2025-06-15 02:20 UTC*
+*Last updated: 2025-06-15 12:48 UTC*
 
 This repository automatically tracks and displays the latest performance rankings for LLMs, IDEs, and AI Agents. The leaderboards are updated every 12 hours using GitHub Actions.
 
@@ -40,9 +40,9 @@ This repository automatically tracks and displays the latest performance ranking
 
 | Rank | Name | Score | Organization | Type | Version |
 |------|------|-------|--------------|------|---------|
-| 🥇 | **Auto-GPT** | 176139 | Significant-Gravitas | Open Source | None |
-| 🥈 | **MetaGPT** | 56394 | geekan | Open Source | None |
-| 🥉 | **AutoGen** | 45987 | microsoft | Open Source | None |
+| 🥇 | **Auto-GPT** | 176152 | Significant-Gravitas | Open Source | None |
+| 🥈 | **MetaGPT** | 56407 | geekan | Open Source | None |
+| 🥉 | **AutoGen** | 45993 | microsoft | Open Source | None |
 | 4 | **AgentGPT** | 34323 | reworkd | Web | None |
 | 5 | **BabyAGI** | 21564 | yoheinakajima | Open Source | None |
 
@@ -53,7 +53,7 @@ This repository automatically tracks and displays the latest performance ranking
 - **AI Agents Tracked**: 5
 - **Top LLM**: GPT-4 Turbo (87.3%)" if llms else ""
 - **Top IDE**: Visual Studio Code (73.71)" if ides else ""
-- **Top Agent**: Auto-GPT (176139)" if agents else ""
+- **Top Agent**: Auto-GPT (176152)" if agents else ""
 
 ## 🔄 How This Works
 
